@@ -1,0 +1,6 @@
+/home/kidus/CMakeTut/Step2/CMakeFiles/Tutorial.dir
+/home/kidus/CMakeTut/Step2/CMakeFiles/edit_cache.dir
+/home/kidus/CMakeTut/Step2/CMakeFiles/rebuild_cache.dir
+/home/kidus/CMakeTut/Step2/MathFunctions/CMakeFiles/MathFunctions.dir
+/home/kidus/CMakeTut/Step2/MathFunctions/CMakeFiles/edit_cache.dir
+/home/kidus/CMakeTut/Step2/MathFunctions/CMakeFiles/rebuild_cache.dir
